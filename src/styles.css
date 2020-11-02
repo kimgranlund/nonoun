@@ -1,0 +1,10 @@
+body {
+  padding: 4em;
+  margin: 0em;
+}
+
+#wrapper {
+  transition-duration: 0.25s;
+  font-family: sans-serif;
+  padding: 10em 10em 10em 10em;
+}
